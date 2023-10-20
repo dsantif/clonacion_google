@@ -31,4 +31,4 @@ Aprender a utilizar las etiquetas estándar de HTML5 y CSS3.
 Aquí puedes visualizar mi proyecto terminado: [Clonación de Google](https://splendorous-valkyrie-78f752.netlify.app/)
 
 
-[![Run on Repl.it](https://replit.com/badge/github/dsantif/clonacion_google)](https://replit.com/new/github/dsantif/clonacion_google)
+[![Run on Repl.it](https://replit.com/badge/github/dsantif/clonacion_google)](https://replit.com/github/dsantif/clonacion_google)
